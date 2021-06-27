@@ -1,3 +1,10 @@
-# Team CLON - Crash & Thrust
+﻿# Team CLON - Crash & Thrust
+ ### INU computer engineering 2021 senior project<br>
+ ### Member : 노윤표, 오세훈, 이인호, 최인기
 
-캡스톤디자인(1)까지의 진행도가 담긴 프로젝트임.
+### 진행 사항
+1. 턴 UI 나올 동안 턴카운트 정지, 마우스 표시 안됨 -> 처음 1초는 지나감
+2. 충돌 시 에러 해결
+3. 마나 여러번 반복 충전 해결
+4. 아처 스킬 중 다른 행동 불가능
+5. 로비 UI 개선
